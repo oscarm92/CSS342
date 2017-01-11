@@ -1,0 +1,112 @@
+ERROR: Not enough funds to withdraw $20000 from Cash Johnny Growth Index Fund
+______________________________________________________
+Transaction History for Cash, Johnny. ID 1001 by Fund.
+______________________________________________________
+Fund[0] Money Market Balance: $470
+Deposited $542.
+Withdrew $72.
+------------------------------------------------------
+Fund[1] Prime Money Market Balance: $3042
+Deposited $1542.
+Deposited $1500.
+------------------------------------------------------
+Fund[2] Long-Term Bond Balance: $10442
+Deposited $5442.
+Deposited $5000.
+------------------------------------------------------
+Fund[3] Short-Term Bond Balance: $14540
+Deposited $7540.
+Deposited $7000.
+------------------------------------------------------
+Fund[5] Capital Value Fund Balance: $54
+Transfered $54 from Growth Index Fund to Capital Value Fund.
+------------------------------------------------------
+Fund[6] Growth Equity Fund Balance: $15053
+Deposited $7542.
+Deposited $7576.
+Withdrew $65.
+------------------------------------------------------
+Fund[7] Growth Index Fund Balance: $10931
+Deposited $5442.
+Deposited $6543.
+Withdrew $1000.
+Transfered $54 from Growth Index Fund to Capital Value Fund.
+Withdral of $20000 from Growth Index Fund failed (Insufficient Funds).
+------------------------------------------------------
+Transaction History for Williams Hank 500 Index Fund: $10000
+Deposited $10000.
+________________________________________________________
+Transaction History for Williams, Hank. ID 1253 by Fund.
+________________________________________________________
+Fund[0] Money Market Balance: $10000
+Deposited $10000.
+--------------------------------------------------------
+Fund[1] Prime Money Market Balance: $10000
+Deposited $10000.
+--------------------------------------------------------
+Fund[2] Long-Term Bond Balance: $0
+Deposited $10000.
+Withdrew $10000.
+--------------------------------------------------------
+Fund[3] Short-Term Bond Balance: $5000
+Deposited $10000.
+Withdrew $5000.
+--------------------------------------------------------
+Fund[4] 500 Index Fund Balance: $10000
+Deposited $10000.
+--------------------------------------------------------
+Fund[5] Capital Value Fund Balance: $10000
+Deposited $10000.
+--------------------------------------------------------
+Fund[6] Growth Equity Fund Balance: $10000
+Deposited $10000.
+--------------------------------------------------------
+Fund[7] Growth Index Fund Balance: $10000
+Deposited $10000.
+--------------------------------------------------------
+Fund[8] Value Fund Balance: $10000
+Deposited $10000.
+--------------------------------------------------------
+Fund[9] Value Stock Index Balance: $10000
+Deposited $10000.
+--------------------------------------------------------
+ERROR: Account 4356 not found. Transferal refused.
+ERROR: Account 9876 already open. Transaction refused.
+
+Processing Done. Final Balances.
+Cash Johnny Account ID: 1001
+	Money Market: $470
+	Prime Money Market: $3042
+	Long-Term Bond: $10442
+	Short-Term Bond: $14540
+	500 Index Fund: $0
+	Capital Value Fund: $54
+	Growth Equity Fund: $15053
+	Growth Index Fund: $10931
+	Value Fund: $0
+	Value Stock Index: $0
+
+Williams Hank Account ID: 1253
+	Money Market: $10000
+	Prime Money Market: $10000
+	Long-Term Bond: $0
+	Short-Term Bond: $5000
+	500 Index Fund: $10000
+	Capital Value Fund: $10000
+	Growth Equity Fund: $10000
+	Growth Index Fund: $10000
+	Value Fund: $10000
+	Value Stock Index: $10000
+
+Nelson Willie Account ID: 9876
+	Money Market: $0
+	Prime Money Market: $0
+	Long-Term Bond: $0
+	Short-Term Bond: $0
+	500 Index Fund: $0
+	Capital Value Fund: $0
+	Growth Equity Fund: $0
+	Growth Index Fund: $0
+	Value Fund: $0
+	Value Stock Index: $0
+
